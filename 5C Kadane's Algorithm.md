@@ -17,8 +17,8 @@ To find the maximum sum of a contiguous subarray within a one-dimensional intege
 
 ## PROGRAM
 ```
-DEVELOPED BY : SHALINI K
-REGISTER NUMBER : 212222240095
+DEVELOPED BY : SANDHYA B N
+REGISTER NUMBER : 212222040144
 
 def maxSubArraySum(a, size):
     max_sum = a[0]
